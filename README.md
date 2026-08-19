@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6C5CE7&height=200&section=header&text=Utsav%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20%26%20Backend&descAlignY=55&descSize=18" width="100%"/>
+# Utsav Singh
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=700&lines=Building+Scalable+%26+AI-Powered+Applications;Full+Stack+%26+Backend+Developer;Data+Structures+%2B+System+Design+Enthusiast" alt="Typing SVG" />
@@ -35,48 +35,49 @@ I enjoy building responsive, scalable web applications and working across the st
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### 📖 Readwise
+
 Full-stack reading and learning platform
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933" />
 <img src="https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248" />
-
-<br/><br/>
 
 <a href="https://github.com/Iamutsav03/Readwise"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 💬 WhatsApp Summarizer
+
 AI-powered message summarizer & analyzer
 
 <img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=3776AB" />
 <img src="https://img.shields.io/badge/LLM-333333?style=flat-square" />
 <img src="https://img.shields.io/badge/NLP-333333?style=flat-square" />
 
-<br/><br/>
-
 <a href="https://github.com/Iamutsav03/whatsapp_message_summarizer_and_analyzer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
+
 <td width="33%" valign="top">
 
 ### 🏢 OSAM
+
 Service-based agency platform
 
 <img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933" />
 
-<br/><br/>
-
 <a href="https://github.com/Iamutsav03/Osam"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </td>
+
 </tr>
 </table>
 
@@ -101,24 +102,18 @@ Service-based agency platform
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br/><br/>
-
 **Frontend**
 <br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-
-<br/><br/>
 
 **Backend**
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-
-<br/><br/>
 
 **Databases & Data**
 <br/>
@@ -126,8 +121,6 @@ Service-based agency platform
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-
-<br/><br/>
 
 **AI / Data Science**
 <br/>
@@ -138,8 +131,6 @@ Service-based agency platform
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-<br/><br/>
-
 **Cloud & DevOps**
 <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -148,8 +139,6 @@ Service-based agency platform
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br/><br/>
 
 **Development Tools**
 <br/>
