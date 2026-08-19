@@ -112,10 +112,14 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Iamutsav03/Iamutsav03/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iamutsav03/Iamutsav03/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Iamutsav03/Iamutsav03/output/dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Iamutsav03/Iamutsav03/output/dist/github-snake.svg" />
+  </picture>
 </div>
 
-> To activate this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this animation from your contribution graph.
+> Powered by the [Platane/snk](https://github.com/Platane/snk) GitHub Action (see `snake.yml`) — it reads your real contribution graph and regenerates this animation daily.
 
 ---
 
