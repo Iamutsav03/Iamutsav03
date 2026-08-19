@@ -82,33 +82,15 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />
 
-</div>
+</div>---
 
----
-
-### 📊 GitHub Stats
+### 🔥 Contribution Streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iamutsav03&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamutsav03&layout=compact&theme=default&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamutsav03&theme=default&hide_border=true" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamutsav03&theme=default&hide_border=true" />
 </div>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamutsav03&theme=flat&no-frame=true&row=2&column=4" />
-</div>
-
----
-
 ### 🐍 Contribution Snake
 
 <div align="center">
