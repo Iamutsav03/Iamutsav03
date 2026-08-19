@@ -4,18 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Utsav+Singh;Software+Development+Engineer;Full+Stack+%26+Backend+Developer;Building+Scalable+%26+AI-Powered+Applications" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
-<a href="https://portfolio-imutsav03.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2E86FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/Iamutsav03">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/utsav-singh03/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 </div>
 
 ---
@@ -39,23 +27,37 @@ Currently focused on:
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<a href="https://github.com/Iamutsav03/Readwise">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamutsav03&repo=Readwise&theme=default&hide_border=true" />
-</a>
-
-<a href="https://github.com/Iamutsav03/whatsapp_message_summarizer_and_analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamutsav03&repo=whatsapp_message_summarizer_and_analyzer&theme=default&hide_border=true" />
-</a>
-
-<a href="https://github.com/Iamutsav03/Osam">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamutsav03&repo=Osam&theme=default&hide_border=true" />
-</a>
-
-</div>
-
+**📖 Readwise**
 <br/>
+Full-stack reading and learning platform
+<br/>
+<a href="https://github.com/Iamutsav03/Readwise">View Repo →</a>
+
+</td>
+<td width="33%" valign="top">
+
+**💬 WhatsApp Summarizer**
+<br/>
+Message summarizer & analyzer using AI
+<br/>
+<a href="https://github.com/Iamutsav03/whatsapp_message_summarizer_and_analyzer">View Repo →</a>
+
+</td>
+<td width="33%" valign="top">
+
+**🏢 OSAM**
+<br/>
+Service-based agency platform
+<br/>
+<a href="https://github.com/Iamutsav03/Osam">View Repo →</a>
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -102,7 +104,12 @@ Currently focused on:
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,bash,git" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 
 ### Development Tools
 
@@ -148,61 +155,6 @@ Currently focused on:
 * 350+ DSA problems solved across LeetCode and GeeksforGeeks
 * Strong focus on Arrays, Trees, Graphs, Dynamic Programming, Recursion, Hashing, and algorithm optimization
 * Regular practice in C++
-
----
-
-## Cloud & Deployment
-
-Hands-on experience with AWS services and modern deployment workflows.
-
-```text
-AWS
-├── EC2
-├── S3
-├── RDS
-├── Lambda
-└── IAM
-
-DevOps
-├── Docker
-├── GitHub Actions
-├── Linux
-└── Bash
-```
-
----
-
-## Development Focus
-
-```text
-Full Stack Development
-        │
-        ├── React.js / Redux
-        ├── Node.js / Express.js
-        ├── REST APIs / WebSockets
-        └── MERN Stack
-
-Backend Engineering
-        │
-        ├── API Design
-        ├── Authentication
-        ├── Database Architecture
-        └── System Design
-
-AI Engineering
-        │
-        ├── LLM Applications
-        ├── RAG
-        ├── NLP
-        └── Prompt Engineering
-
-Cloud & DevOps
-        │
-        ├── AWS
-        ├── Docker
-        ├── GitHub Actions
-        └── Linux
-```
 
 ---
 
