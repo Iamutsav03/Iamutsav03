@@ -1,91 +1,163 @@
-# 👋 Hi, I'm Utsav Singh
+<div align="center">
 
-🎓 B.Tech (Information Technology) Graduate | 💻 Full Stack Developer
+<!-- Animated typing intro -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Utsav+Singh+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Backend+%26+System+Design+Enthusiast;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+</a>
 
-I am passionate about building scalable web applications and solving real-world problems through software. My primary focus is on Full Stack Development using the MERN stack, with a strong interest in backend development, system design fundamentals, and application deployment.
+<br/>
 
-I also have an academic background in Machine Learning and Data Science, which has helped me develop analytical and problem-solving skills.
+<img src="https://img.shields.io/badge/B.Tech-Information%20Technology-2E86FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-success?style=for-the-badge" />
 
----
-
-## 🚀 What I'm Currently Working On
-
-* Building full-stack web applications using MERN Stack
-* Learning deployment, cloud technologies, and backend scalability
-* Strengthening Data Structures & Algorithms through regular practice
-* Exploring modern development workflows and best practices
+</div>
 
 ---
 
-## 📂 Featured Projects
+### 🧭 About Me
 
-🔹 ReadWise – Full-stack reading and learning platform
-
-🔹 OSAM – Service-based agency platform
-
-👉 Check out more in my repositories:
-https://github.com/Iamutsav03?tab=repositories
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-* JavaScript
-* C++
-* Python
-* SQL
-
-### Frontend
-
-* React.js
-* HTML
-* CSS
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-
-### Database
-
-* MongoDB
-* MySQL
-
-### Tools & Cloud
-
-* Git
-* GitHub
-* Postman
-* Docker
-* AWS EC2
-* PM2
-
-### Core Concepts
-
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
-* Computer Networks
+- 🎓 B.Tech (Information Technology) Graduate
+- 💻 Passionate about building **scalable web applications** and solving real-world problems through software
+- 🌐 Primary focus: **Full Stack Development (MERN Stack)**
+- ⚙️ Strong interest in **backend development, system design, and deployment**
+- 📊 Academic background in **Machine Learning & Data Science**
 
 ---
 
-## 🌍 Connect With Me
+### 🚀 What I'm Currently Working On
 
-💼 LinkedIn: https://www.linkedin.com/in/utsav-singh03/
-
-🐦 X (Twitter): https://x.com/S1nghUtsav
-
-✍️ Medium: https://medium.com/@utsav3711
-
-📧 Email: [utsav3711@gmail.com](mailto:utsav3711@gmail.com)
-
-🌐 Portfolio: Coming Soon
+```text
+🔧 Building full-stack web applications using the MERN Stack
+☁️ Learning deployment, cloud technologies & backend scalability
+🧠 Strengthening Data Structures & Algorithms through daily practice
+📚 Exploring modern development workflows and best practices
+```
 
 ---
 
-⭐ Always open to learning, collaborating, and building impactful software.
+### 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Iamutsav03/ReadWise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamutsav03&repo=ReadWise&theme=default&hide_border=true" />
+</a>
+<a href="https://github.com/Iamutsav03/OSAM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iamutsav03&repo=OSAM&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+<div align="center">
+
+👉 <a href="https://github.com/Iamutsav03?tab=repositories"><b>Check out all my repositories here</b></a>
+
+</div>
+
+> Note: if a pinned card above shows "repo not found," it just means the repo name/visibility differs slightly on GitHub — the rest of the profile works regardless.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,cpp,python,mysql" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+**Tools & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,aws" />
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iamutsav03&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamutsav03&layout=compact&theme=default&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iamutsav03&theme=default&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamutsav03&theme=flat&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Iamutsav03/Iamutsav03/output/github-contribution-grid-snake.svg" />
+</div>
+
+> To activate this, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this animation from your contribution graph.
+
+---
+
+### 🧩 Core Concepts
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-2E86FF?style=flat-square" />
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-2E86FF?style=flat-square" />
+<img src="https://img.shields.io/badge/DBMS-Database%20Management-2E86FF?style=flat-square" />
+<img src="https://img.shields.io/badge/OS-Operating%20Systems-2E86FF?style=flat-square" />
+<img src="https://img.shields.io/badge/CN-Computer%20Networks-2E86FF?style=flat-square" />
+
+</div>
+
+---
+
+### 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/utsav-singh03/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/S1nghUtsav">
+  <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://medium.com/@utsav3711">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="mailto:utsav3711@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Always open to learning, collaborating, and building impactful software.**
+
+<img src="https://komarev.com/ghpvc/?username=Iamutsav03&label=Profile%20Views&color=2E86FF&style=flat" />
+
+</div>
