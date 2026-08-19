@@ -6,9 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=700&lines=Building+Scalable+%26+AI-Powered+Applications;Full+Stack+%26+Backend+Developer;Data+Structures+%2B+System+Design+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/github/followers/Iamutsav03?label=Followers&style=for-the-badge&color=2E86FF&labelColor=181717" />
 <img src="https://img.shields.io/badge/Open_to-Work-success?style=for-the-badge&labelColor=181717" />
 <img src="https://komarev.com/ghpvc/?username=Iamutsav03&label=Profile%20Views&color=2E86FF&style=for-the-badge" />
 
@@ -41,8 +40,11 @@ I enjoy building responsive, scalable web applications and working across the st
 ### 📖 Readwise
 Full-stack reading and learning platform
 
-<img src="https://img.shields.io/github/stars/Iamutsav03/Readwise?style=flat-square&color=2E86FF&label=⭐" />
-<img src="https://img.shields.io/github/languages/top/Iamutsav03/Readwise?style=flat-square&color=6C5CE7" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248" />
+
+<br/><br/>
 
 <a href="https://github.com/Iamutsav03/Readwise"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -52,8 +54,11 @@ Full-stack reading and learning platform
 ### 💬 WhatsApp Summarizer
 AI-powered message summarizer & analyzer
 
-<img src="https://img.shields.io/github/stars/Iamutsav03/whatsapp_message_summarizer_and_analyzer?style=flat-square&color=2E86FF&label=⭐" />
-<img src="https://img.shields.io/github/languages/top/Iamutsav03/whatsapp_message_summarizer_and_analyzer?style=flat-square&color=6C5CE7" />
+<img src="https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/LLM-333333?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-333333?style=flat-square" />
+
+<br/><br/>
 
 <a href="https://github.com/Iamutsav03/whatsapp_message_summarizer_and_analyzer"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
@@ -63,8 +68,11 @@ AI-powered message summarizer & analyzer
 ### 🏢 OSAM
 Service-based agency platform
 
-<img src="https://img.shields.io/github/stars/Iamutsav03/Osam?style=flat-square&color=2E86FF&label=⭐" />
-<img src="https://img.shields.io/github/languages/top/Iamutsav03/Osam?style=flat-square&color=6C5CE7" />
+<img src="https://img.shields.io/badge/JavaScript-333333?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-333333?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-333333?style=flat-square&logo=nodedotjs&logoColor=339933" />
+
+<br/><br/>
 
 <a href="https://github.com/Iamutsav03/Osam"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
