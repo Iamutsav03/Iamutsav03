@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iamutsav03&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Iamutsav03&show_icons=true&theme=default&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iamutsav03&layout=compact&theme=default&hide_border=true" />
 
 <br/>
@@ -104,7 +104,7 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Iamutsav03&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Iamutsav03&theme=flat&no-frame=true&row=2&column=4" />
 </div>
 
 ---
